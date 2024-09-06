@@ -1,0 +1,42 @@
+{
+  "name": "Charlie Tak Hei Kwong",
+  "cantonese_name": "鄺德希",
+  "profession": "Interdisciplinary Digital Artist",
+  "qualifications": [
+    "BA Honours (1st)",
+    "Postgraduate Diploma in Education (Qualified Teacher Status)"
+  ],
+  "digital_practice": [
+    "massive data",
+    "web",
+    "sound",
+    "film",
+    "literature",
+    "transmedia storytelling",
+    "autobiography",
+    "community",
+    "education"
+  ],
+  "academic_journey": [
+    "Hong Kong",
+    "Canada",
+    "United Kingdom",
+    "Czech Republic",
+    "The Netherlands"
+  ],
+  "research_projects": [
+    "The Spatial Index",
+    "The Message Index",
+    "Myself Index"
+  ],
+  "themes": [
+    "migration",
+    "cultural identity",
+    "cultural memory"
+  ],
+  "graduate_project": {
+    "title": "Digital Choi Hung",
+    "description": "Revisits the estate he grew up in, marked for city redevelopment in late 2023.",
+    "personal_significance": "Reconciling his identity crisis as an adoptee."
+  }
+}
